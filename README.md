@@ -24,4 +24,10 @@ Program ini adalah sebuah aplikasi sederhana untuk pengelolaan data mahasiswa. D
 
 ## Screenshots
 
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+## Screen Records
+
 [Run program](<Screenshots/DPBO - LP5.mkv>)
